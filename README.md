@@ -13,7 +13,7 @@
 - <a href="https://www.linkedin.com/in/raduanmuarrek/">Raduan Muarrek</a>
 - <a href="https://www.linkedin.com/in/gabriela-rodrigues-matias/">Gabriela Rodrigues Matias</a>
 - <a href="https://www.linkedin.com/in/maria-lu%C3%ADsa-maia-14384a212/">Maria Luísa Maia</a>
-- <a href="www.linkedin.com/in/matheusmacedosantos">Matheus Macedo Santos</a>
+- <a href="https://www.linkedin.com/in/matheusmacedosantos/">Matheus Macedo Santos</a>
 - <a href="https://www.linkedin.com/in/pedro-gattai-096678227">Pedro Gattai</a> 
 - <a href="https://www.linkedin.com/in/gustavo-pereira1/">Gustavo Pereira</a>
 - <a href="https://www.linkedin.com/in/emanuel-45b637185/">Emanuel de Oliveira Costa</a>
