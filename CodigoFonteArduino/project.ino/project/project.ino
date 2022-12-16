@@ -7,6 +7,7 @@ const int greenHum = 40;//definição de pinagem do led verde do RGB de umidade
 const int redHum = 41;//definição de pinagem do led vermelho 
 const int yellowError = 48; // definição de pinagem do led amarelo para verificar funcionamento
 const int blueErrorWifi = 35;
+const int graus = 180;
 
 
 float value1;//variavel criada salvar o valor da temperatura  
@@ -17,6 +18,7 @@ void setup() {
     sensorInitialization(); // Função que inicializa a leitura do sensor de temperatura e umidade
     displayInitialization(); // Função que inicializa o Display LCD
     leds();    
+    servoControl(0, 0, 0);
 }
 
 
@@ -31,6 +33,7 @@ void loop() {
   sendDataToSheet();
   sendDataToDB();
   sensortest();
+  servoControl(graus, value1, value2);
   delay(1000);
 }
 
