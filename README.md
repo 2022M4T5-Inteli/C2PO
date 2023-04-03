@@ -19,18 +19,14 @@
 
 ## 📁 Estrutura de pastas
 
-|-->.githubs<br>
+|-->.Documentos<br>
   &emsp;|--> workflows<br>
-        &emsp;|--> action.txt<br>
-        &emsp;|--> aws.yml<br>
+        &emsp;|-->outros<br>
+        &emsp;|-->T5_G1_V02_Manual de Instruções.pdf<br>
+        &emsp;|-->T5_G2_V04_IoTDocument.pdf<br>
 |-->src<br>
-  &emsp;|-->backend<br>
-  &emsp;|-->frontend<br>
-
-|-->src<br>
-  &emsp;|-->backend<br>
-  &emsp;|-->frontend<br>
-
+  &emsp;|-->Circuito<br>
+  &emsp;|-->Frontend<br>
 
 <b>Dentre os arquivos presentes na raiz do projeto, definem-se:</b>
 
