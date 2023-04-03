@@ -19,17 +19,18 @@
 
 ## 📁 Estrutura de pastas
 
-|--> documentos<br>
-  &emsp;| --> outros <br>
-  &emsp;|--> T5_G2_V04_IoTDocument.docx<br>
-  &emsp;|--> T5_G2_V04_IoTDocument.pdf<br>
-  
-  &emsp;|--> T5_G2_V02_Manual de Instruções.docx<br>
-  &emsp;|--> T5_G2_V02_Manual de Instruções.pdf<br>
-|-->Src<br>
-  &emsp;|--> Circuito<br>
-  &emsp;|--> Frontend<br>
-| readme.md<br>
+|-->.githubs<br>
+  &emsp;|--> workflows<br>
+        &emsp;|--> action.txt<br>
+        &emsp;|--> aws.yml<br>
+|-->src<br>
+  &emsp;|-->backend<br>
+  &emsp;|-->frontend<br>
+
+|-->src<br>
+  &emsp;|-->backend<br>
+  &emsp;|-->frontend<br>
+
 
 <b>Dentre os arquivos presentes na raiz do projeto, definem-se:</b>
 
